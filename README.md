@@ -16,7 +16,7 @@ Minishell gère l'exécution de commandes UNIX, le traitement des **redirections
 ✔️ **Commande interne `export`** pour définir des variables d'environnement  
 ✔️ **Commande interne `unset`** pour supprimer des variables d'environnement  
 ✔️ **Gestion des exit codes `echo $?`**   
-
+✔️ **Gestion des signaux comme ctrl+C ctrl+\ `echo $?`**   
 
 ## 🏗️ Installation et Compilation  
 
